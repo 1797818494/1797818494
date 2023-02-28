@@ -3,7 +3,7 @@
 I recently studied foreign laboratories and learned some technologies, hoping to make some small contributions to open source
 
 - 🔭 I'm a student in CQU
-- 💬 Ask me about labs from the Famous foreign schools
+- 💬 Ask me about labs from the famous foreign schools and C++
 
 
 
