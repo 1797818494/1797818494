@@ -6,5 +6,4 @@ I recently studied foreign laboratories and learned some technologies, hoping to
 - 💬 Ask me about labs from the famous foreign schools and C++
 
 
-
-⭐ From [mohamedabusrea](https://github.com/mohamedabusrea)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PKUFlyingPig&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
