@@ -7,3 +7,4 @@ I recently studied foreign laboratories and learned some technologies, hoping to
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1797818494&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+![](https://raw.githubusercontent.com/这里更换为你的 GitHub ID/这里更换为你的 GitHub ID/main/assets/github-contribution-grid-snake.svg)
