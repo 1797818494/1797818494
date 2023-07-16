@@ -7,4 +7,4 @@ I recently studied foreign laboratories and learned some technologies, hoping to
 
 
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/1797818494/1797818494/output/github-contribution-grid-snake.svg)
+
