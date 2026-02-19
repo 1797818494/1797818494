@@ -11,7 +11,6 @@ Building systems today. Preparing for AGI tomorrow.
 - 🏢 BAT Backend Engineer (1 year)
 - 🧠 Believer that AGI will reshape engineering & society within 3 years
 - ⚙️ Focused on: C++/ Go / Distributed Systems / Infrastructure / AI-native Architecture
-- 🔬 Researching cutting-edge labs from top global universities
 - 🌱 Transitioning from “Coder” → “System and Business Thinker”
 
 ---
