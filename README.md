@@ -17,7 +17,7 @@ Building systems today. Preparing for AGI tomorrow.
 
 ## 🧭 My Technical Direction
 
-- High-performance C++
+- High-performance System
 - Distributed Systems & Middleware
 - AI-driven backend architecture
 - Infrastructure evolution under AGI paradigm
